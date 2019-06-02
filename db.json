@@ -4,12 +4,14 @@
     ],
     "pictures": [
         {
+            "id": 1,
             "userId": 1,
             "url": "https://printing.northwestern.edu:9192/custom/login-bg.jpg?1529941288524"
         }
     ],
     "notes": [
         {
+            "id": 1,
             "userId": 1,
             "top": "100px",
             "left": "100px",
